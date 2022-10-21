@@ -1,7 +1,7 @@
 CLASSES = {
-  0: 'class0',
-  1: 'class1',
-  2: 'class2'
+  0: 'Alma Mater scuplture',
+  1: 'Butler library',
+  2: 'Lion sculpture'
 };
 
 const MODEL_PATH =
