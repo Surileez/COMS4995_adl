@@ -1,14 +1,16 @@
 CLASSES = {
   0: 'Alma Mater scuplture',
   1: 'Butler library',
-  2: 'Lion sculpture'
+  2: 'Lion sculpture',
+  3: 'c',
+  4: 'd'
 };
 
 const MODEL_PATH =
     'model.json';
 
 const IMAGE_SIZE = 192;
-const TOPK_PREDICTIONS = 3;
+const TOPK_PREDICTIONS = 5;
 
 let my_model;
 const demo = async () => {
